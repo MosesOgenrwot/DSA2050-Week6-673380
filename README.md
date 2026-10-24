@@ -1,6 +1,8 @@
 # DSA 2050 – Week 6 Guided Regression Lab
 
-**Student:** Moses Ogenrwot |  **Student ID:** `673380`
+**Student:** Moses Ogenrwot
+
+**Student ID:** `673380`
 
 ## Lab objective
 Estimate `Sales_KES` from advertising spend, store visits, discount, region, customer segment and product category, and test whether regression models meaningfully beat simple baselines. The workflow uses a leakage-safe pipeline, a 20% untouched test set, training-only 5-fold cross-validation, residual analysis and subgroup error checks.
